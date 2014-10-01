@@ -1,0 +1,16 @@
+{
+	"name": "Kaux Gastos",
+	"description": "Aplicacion Desarrollada para el Control de Gastos",
+	"icons":{
+		"60": "/imagenes/kaux-60.jpg",
+		"128": "/imagenes/kaux-128.jpg"
+	},
+	 "developer":{
+	"name":"Jhoan David Alvear Sanchez",
+	"url":"https://twitter.com/Davidalvears"
+	},
+	"launch_path": "/index.html",
+	"default_locale": "es",
+	"orientation": "portrait"
+
+}
